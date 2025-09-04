@@ -43,3 +43,5 @@ Autenticação de usuário
 
 Licença
 Este projeto está sob licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+Esse projeto foi desenvolvido em sala de aula para um curso técnico. 
